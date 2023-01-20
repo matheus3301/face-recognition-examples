@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='relogios_treinamento/relogio1.jpg' width='960' height='637'>
+    <box top='388' left='397' width='164' height='157'/>
+  </image>
+  <image file='relogios_treinamento/relogio2.jpg' width='960' height='639'>
+    <box top='266' left='200' width='298' height='270'/>
+  </image>
+  <image file='relogios_treinamento/relogio3.jpg' width='960' height='720'>
+    <box top='154' left='256' width='457' height='459'/>
+  </image>
+  <image file='relogios_treinamento/relogio4.jpg' width='960' height='720'>
+    <box top='331' left='449' width='115' height='98'/>
+  </image>
+  <image file='relogios_treinamento/relogio5.jpg' width='640' height='433'>
+    <box top='141' left='201' width='241' height='246'/>
+  </image>
+</images>
+</dataset>
